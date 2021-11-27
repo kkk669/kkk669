@@ -4,7 +4,7 @@ Kenta Kubo is a human being, who loves the iPad.
 
 ## Supported Platform
 
-- The Earth
+- Earth
 
 ## License
 
